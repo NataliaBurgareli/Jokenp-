@@ -1,7 +1,9 @@
 # ✊ Jogo de Jokenpô em Python 📄✂️
 
 Um clássico jogo de **Pedra, Papel e Tesoura (Jokenpô)** desenvolvido em Python para praticar lógica de programação, estruturas condicionais e manipulação de entradas do usuário.
+
 ---
+
 ## 🚀 Como Executar
 
 1. Certifique-se de ter o **Python** instalado no seu computador.
