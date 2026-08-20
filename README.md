@@ -1,38 +1,41 @@
-# ✊ Jogo de Jokenpô em Python 📄✂️
+# ✊ Rock Paper Scissors Game in Python 📄✂️
 
-Um clássico jogo de **Pedra, Papel e Tesoura (Jokenpô)** desenvolvido em Python para praticar lógica de programação, estruturas condicionais e manipulação de entradas do usuário.
+A classic **Rock Paper Scissors** game developed in Python to practice programming logic, conditional statements, and user input handling.
 
----
+## 🚀 How to Run
 
-## 🚀 Como Executar
+1. Make sure you have **Python** installed on your computer.
+2. Clone this repository or download the project files.
+3. Open a terminal (or Command Prompt) in the project folder and run:
 
-1. Certifique-se de ter o **Python** instalado no seu computador.
-2. Clone este repositório ou baixe os arquivos do projeto.
-3. Abra o terminal (ou CMD) na pasta do projeto e execute o comando:
-   ```bash
-   python jogo.py
-   
-   🎮 Regras do Jogo
-O usuário escolhe uma das três opções disponíveis e joga contra o computador:
+```bash
+python game.py
+```
 
-✊ Pedra ganha de Tesoura
+## 🎮 Game Rules
 
-📄 Papel ganha de Pedra
+The player chooses one of the three available options and competes against the computer:
 
-✂️ Tesoura ganha de Papel
+- ✊ Rock beats Scissors
+- 📄 Paper beats Rock
+- ✂️ Scissors beats Paper
 
-🛠️ Tecnologias Utilizadas
-Python 3 (Linguagem principal)
+## 🛠️ Technologies Used
 
-Módulo random (Para a escolha aleatória do computador)
+- 🐍 Python 3 (Main programming language)
+- 🎲 `random` module (Used for the computer's random choice)
+- ⏳ `time` module (Used to create delays and add suspense to the game results)
 
-Módulo time (Para criar pausas e dar suspense na exibição dos resultados)
+## 💡 What I Learned
 
-💡 Aprendizados com o Projeto
-Este projeto foi excelente para treinar:
+This project was a great opportunity to practice:
 
-Tratamento de entradas do usuário (input, .lower(), .upper()).
+- User input handling (`input()`, `.lower()`, `.upper()`)
+- Conditional data validation (`if`, `elif`, `else`, `not in`)
+- Using Python built-in libraries (`random.choice()`)
+- Basic game logic implementation
+- Working with loops and decision-making processes
 
-Validação de dados condicionais (if, elif, else, not in).
+## 📄 License
 
-Uso de bibliotecas nativas do Python (random.choice).
+This project is available for educational and portfolio purposes.
